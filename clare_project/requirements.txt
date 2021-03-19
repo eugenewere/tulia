@@ -26,7 +26,7 @@ django-humanize==0.1.2
 django-newsletter==0.7
 django-rest-auth==0.9.5
 django-widget-tweaks==1.4.1
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 et-xmlfile==1.0.1
 Flask==1.1.1
 Flask-HTTPAuth==3.3.0
